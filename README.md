@@ -13,5 +13,3 @@
 
 - 😄 Pronouns: _he/him_
 - ⚡ Fun fact: The Saturn V rocket had a specific impulse of 263 seconds at sea level
-
-[https://status.filippobuletto.info/](https://status.filippobuletto.info/)
