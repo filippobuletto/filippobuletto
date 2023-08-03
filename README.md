@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on OSS Projects
 - 💬 Ask me about anything
 - 📫 How to reach me:
-  - ✉️ [Mail](mailto:me@filippobuletto.info)
+  - ✉️ [Mail](mailto:github@filippobuletto.info)
   - 💬 [Matrix](https://matrix.to/#/@filippobuletto:matrix.filippobuletto.info)
   - 📣 <a rel="me" href="https://mastodon.uno/@filippomito">Mastodon</a>
 
