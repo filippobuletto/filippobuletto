@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[https://blog.filippobuletto.info/](https://blog.filippobuletto.info/)
+[https://www.filippobuletto.info/](https://www.filippobuletto.info/)
 
 - 🔭 I’m currently working on Cloud Security Posture Management
 - 🌱 I’m currently learning Kubernetes and Service Mesh
@@ -8,7 +8,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me:
   - ✉️ [Mail](mailto:github@filippobuletto.info)
-  - 💬 [Matrix](https://matrix.to/#/@filippobuletto:matrix.filippobuletto.info)
   - 📣 <a rel="me" href="https://mastodon.uno/@filippomito">Mastodon</a>
 
 - 😄 Pronouns: _he/him_
